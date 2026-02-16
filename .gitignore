@@ -1,0 +1,17 @@
+# Ephemeral research
+ψ/active/*
+!ψ/active/.gitkeep
+
+# Cloned repos (source lives elsewhere)
+ψ/learn/**/origin
+ψ/incubate/
+
+# Temp files
+.tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
