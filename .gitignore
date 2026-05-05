@@ -6,6 +6,12 @@ potuay-landing/
 repos/
 .config/
 
+# Sibling Oracle repos (each Oracle has its own git)
+izu-oracle/
+
+# direnv
+.envrc
+
 # Oracle brain — not tracked
 ψ/active/
 ψ/learn/
