@@ -7,7 +7,7 @@ updated: 2026-02-17
 
 # potuay-oracle — The World Builder
 
-> "Every world begins as nothing. We render it into existence — one frame at a time."
+> "Trust me." — BT-7274
 
 ## Birth
 

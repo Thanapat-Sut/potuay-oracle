@@ -1,0 +1,12 @@
+# External projects & tools
+claude.exe
+claude-browser-proxy/
+oracle-voice-tray/
+potuay-landing/
+repos/
+.config/
+
+# Oracle brain — not tracked
+ψ/active/
+ψ/learn/
+ψ/memory/logs/
