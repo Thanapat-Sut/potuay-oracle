@@ -131,7 +131,24 @@
       "Bash(mkdir -p ~/.claude/channels/discord/approved)",
       "Bash(printf '%s' '1501126167757983834')",
       "Read(//c/Users/User/.claude/channels/discord/**)",
-      "mcp__plugin_discord_discord__reply"
+      "mcp__plugin_discord_discord__reply",
+      "mcp__plugin_discord_discord__fetch_messages",
+      "Bash(bash)",
+      "Bash(~/.bun/bin/bun install *)",
+      "Bash(~/.bun/bin/bun link *)",
+      "mcp__plugin_discord_discord__download_attachment",
+      "Read(//c/Users/User/.maw/**)",
+      "Read(//c/Users/User/.maw/plugins/**)",
+      "Bash(tmux -V)",
+      "PowerShell(winget install *)",
+      "Bash(netstat -ano)",
+      "Bash(export PATH=\"/c/msys64/usr/bin:$PATH\")",
+      "Bash(tmux kill-server *)",
+      "Bash(tmux ls *)",
+      "Bash(rm -f ~/.maw/maw.pid)",
+      "Read(//c/Users/User/.claude/plugins/**)",
+      "Read(//c/Users/User/.claude/**)",
+      "mcp__plugin_discord_discord__purge_my_messages"
     ]
   }
 }
